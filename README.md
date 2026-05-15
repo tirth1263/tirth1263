@@ -1,314 +1,145 @@
-# Hi, I'm Tirth Rank 👋
-
 <div align="center">
 
-### Robotics & AI Engineer | MS in Robotics & Autonomous Systems (AI) @ Arizona State University
+# Hi, I'm Tirth Rank 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Robotics+%26+Autonomous+Systems+Researcher;Computer+Vision+%7C+Machine+Learning+%7C+Deep+Learning;Building+Intelligent+Systems+for+the+Future" alt="Typing SVG" />
+### Robotics & AI Engineer | Artificial Intelligence | Machine Learning | Computer Vision
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirth%20Rank-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/tirth-rank)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:tirth.rank@gmail.com)
-[![Arizona State University](https://img.shields.io/badge/Arizona%20State%20University-Robotics%20%26%20AI-maroon?style=for-the-badge)](https://www.asu.edu/)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=900&color=00BFFF&center=true&vCenter=true&width=950&lines=Robotics+%26+Autonomous+Systems;Artificial+Intelligence+%7C+Machine+Learning;Computer+Vision+%7C+Deep+Learning;Building+Intelligent+Systems+for+Real-World+Impact" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirth%20Rank-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirth-rank)
+[![Email](https://img.shields.io/badge/Email-tirth.rank%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tirth.rank@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-tirth1263-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tirth1263)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am a highly motivated **Robotics and Artificial Intelligence Engineer** currently pursuing a **Master of Science in Robotics & Autonomous Systems (Artificial Intelligence)** at **Arizona State University**. With a strong academic foundation in **Artificial Intelligence & Machine Learning** from **SVKM’S NMIMS MPSTME**, I am passionate about developing intelligent systems that bridge the gap between human intelligence and machine autonomy.
+I am a **Robotics and Artificial Intelligence Engineer** currently pursuing an **M.S. in Robotics & Autonomous Systems with an Artificial Intelligence concentration at Arizona State University**. I hold a **B.Tech in Artificial Intelligence & Machine Learning from SVKM's NMIMS MPSTME** and have hands-on experience across AI, ML, Deep Learning, Computer Vision, NLP, Data Analytics, Robotics, XR, and Intelligent Automation.
 
-My interests lie at the intersection of:
+My work focuses on building practical, scalable, and intelligent systems that solve real-world problems. Through academic projects, internships, and independent development, I have worked on applications including **healthcare AI, visual recognition, NLP-based classification, predictive analytics, robotics systems, XR testing, IoT systems, and AI-driven automation**.
 
-* 🤖 Robotics & Autonomous Systems
-* 🧠 Artificial Intelligence & Deep Learning
-* 👁️ Computer Vision & Perception Systems
-* 📊 Machine Learning & Data Analytics
-* 🌐 Intelligent Automation & AI-driven Solutions
-* 🎮 Extended Reality (XR), AR/VR & Immersive Technologies
-
-I am driven by curiosity, innovation, and the ambition to create impactful technologies that improve human experiences and productivity.
+I am especially interested in creating intelligent autonomous systems that combine **perception, decision-making, and human-centered design** to improve productivity and real-world interaction.
 
 ---
 
-## 🎓 Education
-
-### Arizona State University
-
-**Master of Science (M.S.) — Robotics & Autonomous Systems (Artificial Intelligence)**
-📍 Tempe, Arizona, United States
-📅 Aug 2025 – Aug 2028
-
-### SVKM'S NMIMS Mukesh Patel School of Technology Management & Engineering
-
-**Bachelor of Technology (B.Tech) — Artificial Intelligence & Machine Learning**
-📅 Aug 2021 – May 2025
-
----
-
-## 💼 Professional Experience
-
-### 🔹 ASU Mesh Labs
-
-#### Volumetric Innovation Fellow
-
-📅 Jan 2026 – Present | Phoenix, Arizona
-
-* Working with immersive and volumetric technologies to support innovation and research.
-* Contributing to cutting-edge projects involving XR ecosystems and digital experiences.
-* Collaborating within the MESH Student Workforce at Arizona State University.
-
-#### XR Quality Assurance & Testing
-
-📅 Oct 2025 – Jan 2026 | Phoenix, Arizona
-
-* Performed rigorous QA testing for VR/AR/MR applications.
-* Documented and tracked defects while collaborating with development teams.
-* Helped improve performance, stability, and usability of immersive systems.
-
----
-
-### 🔹 Codec Technologies India
-
-#### Artificial Intelligence Intern
-
-📅 Jan 2025 – Jul 2025 | Ahmedabad, India
-
-* Developed AI-driven solutions for real-world business applications.
-* Worked on Machine Learning, Deep Learning, NLP, and Computer Vision models.
-* Utilized TensorFlow, scikit-learn, and Python for model development and evaluation.
-* Explored emerging AI techniques and optimized model performance.
-
----
-
-### 🔹 Bacancy
-
-#### Machine Learning Intern
-
-📅 Jan 2025 – May 2025 | Ahmedabad, India
-
-* Contributed to machine learning projects involving data analysis and predictive modeling.
-* Built and improved AI solutions for practical business use cases.
-* Collaborated with teams on innovative AI implementations.
-
----
-
-### 🔹 Deloitte Virtual Internship
-
-#### Data Analytics Virtual Intern
-
-📅 Jul 2025
-
-* Worked on business-focused data analysis tasks using Excel and Tableau.
-* Developed dashboards and visual reports for analytical insights.
-* Gained practical exposure to industry-oriented analytics workflows.
-
----
-
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
 ### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+### Artificial Intelligence & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF1493?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6A5ACD?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-FF8C00?style=for-the-badge)
+![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-00BFFF?style=for-the-badge)
 
-### AI / ML Frameworks
+### Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-
-### Data Engineering & Big Data
-
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge\&logo=apachehadoop\&logoColor=black)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge\&logo=apachehive\&logoColor=black)
+### Data, Big Data & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![NoSQL](https://img.shields.io/badge/NoSQL-005571?style=for-the-badge)
 
-### Tools & Platforms
-
+### Tools & Engineering Platforms
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-red?style=for-the-badge)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge\&logo=autodesk\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=black)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 </div>
 
 ---
 
-## 📌 Featured Projects
-
-### 🧠 Visual Question Answering (VQA) Model
-
-Developed an intelligent AI system capable of answering questions based on image inputs using Deep Learning and Computer Vision.
-
-### 🍃 Leaf Disease Detection System
-
-Built a Deep Learning-based image classification model for accurate crop disease identification and agricultural assistance.
-
-### 🎯 Real-Time Fruit Detection
-
-Implemented a Computer Vision pipeline for real-time object detection and recognition.
-
-### 📧 Spam Email Detection
-
-Created an NLP-powered spam classification model for intelligent email filtering.
-
-### 🔊 AI-Based Noise Cancellation Model
-
-Worked on intelligent audio signal processing for advanced noise reduction.
-
-### 🎮 IoT Gesture-Controlled Bluetooth Speaker
-
-Developed an IoT-based smart system controlled through gesture recognition.
-
-### 📈 Video Game Sales Prediction
-
-Built predictive analytics models to forecast gaming industry sales trends.
-
-### 🔐 Secure Online Banking System
-
-Designed and implemented a secure DBMS-based banking solution.
-
----
-
-## 🏆 Certifications
-
-* J.P. Morgan — Quantitative Research Job Simulation
-* Risk Assessment e-Learning
-* Robotics Certificate
-* AI Agents Fundamentals
-* MATLAB Desktop Tools & Troubleshooting Scripts
-* CB3 e-Learning Robotics Certificate
-
----
-
-## 🌍 Leadership, Collaboration & Interests
-
-Beyond academics and engineering, I actively participate in:
-
-* ⚽ Football
-* 🏀 Basketball
-* 🤝 Team Collaboration & Leadership
-* 💡 Research & Innovation
-* 🚀 Emerging Technologies in AI & Robotics
-
-I strongly believe that teamwork, adaptability, and continuous learning are essential to building impactful technologies.
-
----
-
-## 📈 GitHub Statistics
+## Projects
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=tirth1263\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=tirth1263\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1263\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=95&section=header&text=Featured%20Project%20Portfolio&fontSize=34&fontAlignY=55&desc=AI%20%7C%20Robotics%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Data%20Science&descAlignY=80" alt="Project Portfolio Banner" />
 
 </div>
+
+### Robotics, Autonomous Systems & Deep Learning
+
+| Project | Summary | Tech Focus |
+|---|---|---|
+| [RAS-545 Robotics Systems 1](https://github.com/tirth1263/RAS-545-Robotics-Systems-1) | Developed robotics-focused lab work involving system-level modeling, robotics concepts, algorithmic problem solving, and simulation-oriented implementation. | Robotics, Python, Jupyter Notebook |
+| [EEE-598 Deep Learning Foundations & Applications](https://github.com/tirth1263/EEE-598-Deep-Learning-Fondations-and-Applications) | Implemented advanced deep learning labs covering neural networks, attention mechanisms, multi-head attention, GANs, diffusion models, GNNs, and accelerator-based workflows. | Deep Learning, Python, Jupyter Notebook |
+| Visual Question Answering Model | Built an AI pipeline designed to answer questions from visual inputs by combining image understanding with intelligent reasoning. | Computer Vision, Deep Learning, AI |
+| AI-Based Noise Cancellation Model | Developed an intelligent noise reduction model focused on improving audio clarity through AI-based signal processing. | AI, ML, Audio Processing |
 
 ---
 
-## 🤝 Connect With Me
+### Computer Vision & Healthcare AI
 
-<div align="center">
+| Project | Summary | Tech Focus |
+|---|---|---|
+| [X-Ray Fracture Detection — 92.5% Accuracy](https://github.com/tirth1263/X-ray-dataset-for-fractured-bones-92.5-accuracy) | Built a fracture classification workflow for X-ray scans, including preprocessing, model training, evaluation, and performance visualization. | Healthcare AI, Deep Learning, Python |
+| [140k Real vs Fake Detection — 97.395% Accuracy](https://github.com/tirth1263/140k-real-vs-fake-97.395-accuracy) | Developed an image classification model to distinguish real and fake images using a large-scale dataset and deep learning workflow. | CNN, Image Classification, Deep Learning |
+| [Image Classification Using CNN](https://github.com/tirth1263/Image-Classification-using-CNNImage-Classification-using-CNN) | Implemented a CNN-based image classification pipeline for visual pattern recognition and feature learning. | CNN, Computer Vision, Python |
+| [Face Recognition Using Haar Cascade](https://github.com/tirth1263/Face-recognition-using-haarcascade) | Created a face recognition system using Haar Cascade-based detection and Python scripts for dataset creation and recognition. | OpenCV, Python, Face Recognition |
+| Leaf Disease Detection System | Built a deep learning image classification system to identify plant leaf diseases and support agricultural decision-making. | Deep Learning, Computer Vision |
+| Real-Time Fruit Detection | Developed a real-time computer vision pipeline for fruit detection and object recognition from visual input. | OpenCV, Object Detection, Python |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirth%20Rank-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/tirth-rank)
-[![Email](https://img.shields.io/badge/Email-tirth.rank%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:tirth.rank@gmail.com)
+---
 
-</div>
+### Machine Learning, NLP & Data Analytics
+
+| Project | Summary | Tech Focus |
+|---|---|---|
+| [Codec Technologies Projects](https://github.com/tirth1263/CodecTechnologiesProjects) | Built applied AI projects including stock price prediction using Linear Regression and Twitter sentiment classification using NLP and Logistic Regression. | ML, NLP, scikit-learn, Python |
+| [Basic ML Projects](https://github.com/tirth1263/Basic-ML-Projects) | Worked on practical machine learning notebooks including video game sales prediction and USA accidents data analysis. | ML, Data Analytics, Python |
+| [GTZAN Genre Classification](https://github.com/tirth1263/GTZAN-dataset-genre-classification) | Built a music genre classification workflow using the GTZAN dataset for audio-based pattern recognition. | Audio ML, Classification, Python |
+| [Statistical Methods](https://github.com/tirth1263/Statistical-Methods) | Practiced statistical analysis and foundational data science methods through notebook-based implementations. | Statistics, Data Science |
+| Spam Email Detection | Created an NLP-based spam classification model for intelligent email filtering using text preprocessing and ML classification. | NLP, ML, Python |
+| Video Game Sales Prediction | Built a predictive analytics model to analyze and forecast video game sales trends from structured data. | Predictive Modeling, Data Analytics |
+
+---
+
+### Software Engineering, IoT & Intelligent Systems
+
+| Project | Summary | Tech Focus |
+|---|---|---|
+| [Service Provider Platform](https://github.com/tirth1263/Service_Provider_Platfrom) | Developed a JavaScript-based service provider platform focused on connecting users with services through a structured application workflow. | JavaScript, Web Development |
+| [MyIdea](https://github.com/tirth1263/MyIdea) | Built a JavaScript project focused on product-style implementation, front-end logic, and idea prototyping. | JavaScript, Web Development |
+| Secure Online Banking System | Designed and implemented a secure DBMS-based banking system with structured data handling and transaction workflows. | DBMS, SQL, System Design |
+| IoT Gesture-Controlled Bluetooth Speaker | Built an IoT-based Bluetooth speaker controlled through gesture-based interaction for hands-free operation. | IoT, Embedded Systems, Sensors |
 
 ---
 
 <div align="center">
 
-### "Building intelligent systems that redefine the future of human-machine interaction."
+<img src="https://github-readme-stats.vercel.app/api?username=tirth1263&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
-⭐ *Thank you for visiting my GitHub profile.*
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tirth1263&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1263&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 </div>
-
----
-
-# 📌 Steps to Add This README to Your GitHub Profile
-
-## Step 1 — Create a Special Repository
-
-1. Go to GitHub.
-2. Click on the **+** icon (top-right corner).
-3. Select **New repository**.
-4. Repository name **must be exactly:**
-
-```bash
-tirth1263
-```
-
-⚠️ The repository name should exactly match your GitHub username.
-
-5. Make the repository **Public**.
-6. Tick the checkbox:
-
-```bash
-Add a README file
-```
-
-7. Click **Create repository**.
-
----
-
-## Step 2 — Replace the README Content
-
-1. Open the newly created repository.
-2. Click on `README.md`.
-3. Click the ✏️ **Edit** button.
-4. Remove all existing text.
-5. Paste the complete markdown content from this document.
-6. Click **Commit changes**.
-
----
-
-## Step 3 — View Your GitHub Profile
-
-Now visit:
-
-```bash
-https://github.com/tirth1263
-```
-
-Your professional GitHub profile README will automatically appear on your profile page.
-
----
-
-## 🚀 Optional Improvements
-
-You can further improve your profile by:
-
-* Pinning your best repositories
-* Adding project demos/videos
-* Including contribution graphs
-* Adding portfolio website links
-* Uploading project screenshots
-* Keeping repositories organized and documented
-
----
-
-## 📌 Recommended Next Step
-
-Create and upload:
-
-* AI/ML Projects
-* Robotics Projects
-* Computer Vision Projects
-* Research Work
-* Resume Repository
-* Portfolio Website
-
-This will significantly improve recruiter engagement and technical credibility.
