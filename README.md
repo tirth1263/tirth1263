@@ -119,6 +119,8 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [Job Applications Tracker](https://github.com/tirth1263/job-applications-tracker) | Built a job application tracking platform to organize applications, monitor progress, manage statuses, and streamline the job search workflow. | Web Development, Productivity, Application Tracking |
+| [B2B Competitor Intelligence Engine](https://github.com/tirth1263/b2b-competitor-intelligence-engine) | Developed an intelligence-focused platform for tracking competitors, analyzing business insights, and supporting B2B decision-making workflows. | B2B Intelligence, Analytics, Web Development |
 | [Service Provider Platform](https://github.com/tirth1263/Service_Provider_Platfrom) | Developed a JavaScript-based service provider platform focused on connecting users with services through a structured application workflow. | JavaScript, Web Development |
 | [MyIdea](https://github.com/tirth1263/MyIdea) | Built a JavaScript project focused on product-style implementation, front-end logic, and idea prototyping. | JavaScript, Web Development |
 | Secure Online Banking System | Designed and implemented a secure DBMS-based banking system with structured data handling and transaction workflows. | DBMS, SQL, System Design |
@@ -140,6 +142,6 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&v=20260527" alt="GitHub Activity Graph" />
 
 </div>
