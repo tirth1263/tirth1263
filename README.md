@@ -93,6 +93,7 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [Satellite Imagery or Drone Feed Change Tracker](https://github.com/tirth1263/satellite-imagery-or-drone-feed-chage-tracker) | Built a geospatial intelligence dashboard and computer vision pipeline to compare satellite imagery or drone feeds, detect land/water/urban changes, and export map-ready change artifacts. | Geospatial CV, React, TypeScript, OpenCV |
 | [X-Ray Fracture Detection — 92.5% Accuracy](https://github.com/tirth1263/X-ray-dataset-for-fractured-bones-92.5-accuracy) | Built a fracture classification workflow for X-ray scans, including preprocessing, model training, evaluation, and performance visualization. | Healthcare AI, Deep Learning, Python |
 | [140k Real vs Fake Detection — 97.395% Accuracy](https://github.com/tirth1263/140k-real-vs-fake-97.395-accuracy) | Developed an image classification model to distinguish real and fake images using a large-scale dataset and deep learning workflow. | CNN, Image Classification, Deep Learning |
 | [Image Classification Using CNN](https://github.com/tirth1263/Image-Classification-using-CNNImage-Classification-using-CNN) | Implemented a CNN-based image classification pipeline for visual pattern recognition and feature learning. | CNN, Computer Vision, Python |
@@ -106,6 +107,8 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [Multi-Modal E-Commerce Fake Review Detector](https://github.com/tirth1263/multi-modal-e-commerce-fake-review-detector) | Built a multi-modal fake review detection system that combines review text, reviewer metadata, and product image signals with an explainable FastAPI scoring pipeline and deployable ML workflow. | PyTorch, Transformers, FastAPI, Docker |
+| [Real-Time MLOps Drifting & Monitoring System](https://github.com/tirth1263/real-time-ml-ops-drifting-and-monitoring-system) | Developed a real-time MLOps monitoring app that simulates production drift, tracks model metrics, raises alerts, manages retraining history, and stores runtime state using Firebase. | MLOps, React, Firebase, Drift Monitoring |
 | [Codec Technologies Projects](https://github.com/tirth1263/CodecTechnologiesProjects) | Built applied AI projects including stock price prediction using Linear Regression and Twitter sentiment classification using NLP and Logistic Regression. | ML, NLP, scikit-learn, Python |
 | [Basic ML Projects](https://github.com/tirth1263/Basic-ML-Projects) | Worked on practical machine learning notebooks including video game sales prediction and USA accidents data analysis. | ML, Data Analytics, Python |
 | [GTZAN Genre Classification](https://github.com/tirth1263/GTZAN-dataset-genre-classification) | Built a music genre classification workflow using the GTZAN dataset for audio-based pattern recognition. | Audio ML, Classification, Python |
@@ -119,6 +122,8 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [AI-Assisted Robotic Design Interface for Creative Fabrication](https://github.com/tirth1263/ai-assisted-robotic-design-interface-for-creative-fabrication) | Built a futuristic research-interface prototype that maps creative design intent into robotic fabrication workflow parameters with human-in-the-loop review and readiness scoring. | React, TypeScript, Robotic Fabrication |
+| [Digital Fabrication Curriculum and Workshop Documentation Toolkit](https://github.com/tirth1263/digital-fabrication-curriculum-and-workshop-documentation-toolkit) | Created a curriculum support toolkit for robotic digital fabrication workshops, including modules, experiment outlines, safety checklists, diagrams, templates, and assessment rubrics. | Documentation, Fabrication, Workshop Design |
 | [Job Applications Tracker](https://github.com/tirth1263/job-applications-tracker) | Built a job application tracking platform to organize applications, monitor progress, manage statuses, and streamline the job search workflow. | Web Development, Productivity, Application Tracking |
 | [B2B Competitor Intelligence Engine](https://github.com/tirth1263/b2b-competitor-intelligence-engine) | Developed an intelligence-focused platform for tracking competitors, analyzing business insights, and supporting B2B decision-making workflows. | B2B Intelligence, Analytics, Web Development |
 | [Service Provider Platform](https://github.com/tirth1263/Service_Provider_Platfrom) | Developed a JavaScript-based service provider platform focused on connecting users with services through a structured application workflow. | JavaScript, Web Development |
@@ -142,6 +147,6 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&v=20260527" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 </div>
