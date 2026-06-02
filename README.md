@@ -74,7 +74,7 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DAA520,50:FFD700,100:B8860B&height=95&section=header&text=Featured%20Project%20Portfolio&fontSize=34&fontAlignY=55&fontColor=FFFFFF&desc=AI%20%7C%20Robotics%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Data%20Science&descAlignY=80&descColor=FFFFFF" alt="Project Portfolio Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B6508,25:DAA520,50:FFD700,75:FFF8DC,100:B8860B&height=120&section=header&text=Featured%20Project%20Portfolio&fontSize=38&fontAlignY=45&fontColor=FFFFFF&animation=twinkling&desc=AI%20%7C%20Robotics%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Data%20Science&descAlignY=70&descSize=18&descColor=FFFFFF" alt="Project Portfolio Banner" />
 
 </div>
 
