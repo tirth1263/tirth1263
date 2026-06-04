@@ -142,7 +142,7 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tirth1263&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&mode=daily" alt="GitHub Streak" />
 
 <br/><br/>
 
