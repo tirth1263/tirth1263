@@ -107,6 +107,7 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [Multi-Agent Orchestration System](https://github.com/tirth1263/multi-agent-orchestration-system) | Built a Python-based multi-agent orchestration framework with hierarchical agent handoffs, recursive task delegation, internal tools, MCP support, cycle detection, and configurable execution depth. | Python, AI Agents, MCP, Tool Orchestration |
 | [Multi-Modal E-Commerce Fake Review Detector](https://github.com/tirth1263/multi-modal-e-commerce-fake-review-detector) | Built a multi-modal fake review detection system that combines review text, reviewer metadata, and product image signals with an explainable FastAPI scoring pipeline and deployable ML workflow. | PyTorch, Transformers, FastAPI, Docker |
 | [Real-Time MLOps Drifting & Monitoring System](https://github.com/tirth1263/real-time-ml-ops-drifting-and-monitoring-system) | Developed a real-time MLOps monitoring app that simulates production drift, tracks model metrics, raises alerts, manages retraining history, and stores runtime state using Firebase. | MLOps, React, Firebase, Drift Monitoring |
 | [Codec Technologies Projects](https://github.com/tirth1263/CodecTechnologiesProjects) | Built applied AI projects including stock price prediction using Linear Regression and Twitter sentiment classification using NLP and Logistic Regression. | ML, NLP, scikit-learn, Python |
@@ -122,6 +123,8 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [Autonomous CI/CD Failure Patcher](https://github.com/tirth1263/autonomous-ci-cd-failure-patcher) | Built a Firebase-backed self-healing CI/CD dashboard and GitHub Action that analyzes failed workflow logs, generates AI-assisted patches, verifies fixes in an isolated emulator workflow, and opens pull requests. | GitHub Actions, Firebase, React, TypeScript |
+| [Enterprise MCP Database Server](https://github.com/tirth1263/enterprise-mcp-database-server) | Developed a secure Firebase-backed web app and MCP SDK server for database metadata workflows, including connector fingerprints, schema snapshots, privacy-aware SQL generation, execution-plan inspection, anomaly explanation, and Codex MCP client export. | MCP, Firebase, React, TypeScript |
 | [AI-Assisted Robotic Design Interface for Creative Fabrication](https://github.com/tirth1263/ai-assisted-robotic-design-interface-for-creative-fabrication) | Built a futuristic research-interface prototype that maps creative design intent into robotic fabrication workflow parameters with human-in-the-loop review and readiness scoring. | React, TypeScript, Robotic Fabrication |
 | [Digital Fabrication Curriculum and Workshop Documentation Toolkit](https://github.com/tirth1263/digital-fabrication-curriculum-and-workshop-documentation-toolkit) | Created a curriculum support toolkit for robotic digital fabrication workshops, including modules, experiment outlines, safety checklists, diagrams, templates, and assessment rubrics. | Documentation, Fabrication, Workshop Design |
 | [Job Applications Tracker](https://github.com/tirth1263/job-applications-tracker) | Built a job application tracking platform to organize applications, monitor progress, manage statuses, and streamline the job search workflow. | Web Development, Productivity, Application Tracking |
@@ -135,18 +138,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&v=20260603" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=tirth1263&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=tirth1263&theme=tokyonight&hide_border=true&v=20260603" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&v=20260603" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&v=20260603" alt="GitHub Activity Graph" />
 
 </div>
