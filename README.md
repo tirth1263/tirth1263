@@ -107,6 +107,9 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [KAOS Starter](https://github.com/tirth1263/kaos-starter) | Built a Kubernetes-native KAOS multi-agent starter with coordinator-worker agents, MCP tool servers, agent memory endpoints, hosted Ollama/SmolLM2 model runtime, deployment scripts, and a published project website. | KAOS, Kubernetes, MCP, Ollama |
+| [Finance Agent](https://github.com/tirth1263/finance-agent) | Developed an Agno-powered AI finance research assistant that combines Nebius-hosted DeepSeek, Yahoo Finance market data, and DuckDuckGo search for stock analysis, fundamentals, analyst recommendations, and market news. | Agno, Finance AI, YFinance, Nebius |
+| [Human-in-the-Loop Agent](https://github.com/tirth1263/human-in-the-loop-agent) | Built a Python human-in-the-loop AI agent that pauses tool execution for approval, rejection, or retry, demonstrating safer agent workflows with Agno pre-execution hooks, Rich terminal UI, and a React/Vite web demo. | HITL Agents, Agno, Python, React |
 | [Agno HackerNews Analysis Agent](https://github.com/tirth1263/agno-kackernews-analysis) | Built an Agno-powered Hacker News analysis agent that studies stories, comments, engagement signals, trending themes, and discussion density using Nebius Qwen models. | Agno, Nebius, Qwen, Hacker News Tools |
 | [OpenAI SDK Starter](https://github.com/tirth1263/openai-sdk-starter) | Created an OpenAI Agents SDK starter using Nebius Token Factory and Resend email tools to demonstrate practical agent workflows with external tool integrations. | OpenAI Agents SDK, Nebius, Resend |
 | [LlamaIndex Task Manager](https://github.com/tirth1263/Llama-Index-Task-Manager) | Built a LlamaIndex ReAct agent starter for task duration analysis, estimation, and productivity-focused reasoning using Nebius-powered inference. | LlamaIndex, ReAct Agent, Nebius |
