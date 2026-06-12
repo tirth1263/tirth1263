@@ -107,6 +107,10 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [Newsletter Generator](https://github.com/tirth1263/newsletter-generator) | Built an AI-powered newsletter generator that researches topics with Firecrawl, orchestrates generation through Agno, uses Nebius AI for writing, and provides a Streamlit interface with markdown download and deployment-ready files. | Streamlit, Agno, Firecrawl, Nebius |
+| [Reasoning Agent](https://github.com/tirth1263/reasoning-agent) | Developed a transparent financial reasoning agent that breaks investment questions into assumptions, reasoning steps, tool calls, risk profiling, allocation suggestions, and balanced recommendations. | Agno, Nebius, Financial Reasoning |
+| [Agno UI Example](https://github.com/tirth1263/agno-ui-example) | Built an end-to-end Agno Agent UI playground with Nebius-powered web research and finance agents, persistent SQLite conversations, DuckDuckGo search, YFinance tools, and a Next.js chat interface. | Agno, Next.js, YFinance, DuckDuckGo |
+| [Mastra Weather Bot](https://github.com/tirth1263/mastra-weather-bot) | Created a Mastra AI weather agent that uses Nebius AI, Open-Meteo weather data, TypeScript tools, Zod schemas, a CLI bot, and a Vite/GitHub Pages website for live weather lookup. | Mastra, TypeScript, Open-Meteo, Nebius |
 | [KAOS Starter](https://github.com/tirth1263/kaos-starter) | Built a Kubernetes-native KAOS multi-agent starter with coordinator-worker agents, MCP tool servers, agent memory endpoints, hosted Ollama/SmolLM2 model runtime, deployment scripts, and a published project website. | KAOS, Kubernetes, MCP, Ollama |
 | [Finance Agent](https://github.com/tirth1263/finance-agent) | Developed an Agno-powered AI finance research assistant that combines Nebius-hosted DeepSeek, Yahoo Finance market data, and DuckDuckGo search for stock analysis, fundamentals, analyst recommendations, and market news. | Agno, Finance AI, YFinance, Nebius |
 | [Human-in-the-Loop Agent](https://github.com/tirth1263/human-in-the-loop-agent) | Built a Python human-in-the-loop AI agent that pauses tool execution for approval, rejection, or retry, demonstrating safer agent workflows with Agno pre-execution hooks, Rich terminal UI, and a React/Vite web demo. | HITL Agents, Agno, Python, React |
@@ -159,18 +163,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260610" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260612" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260610" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260612" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260610" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260612" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260610" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260612" alt="GitHub Activity Graph" />
 
 </div>
