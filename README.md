@@ -107,6 +107,9 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [Calendar Assistant](https://github.com/tirth1263/calendar-assistant) | Built an Agno-powered scheduling agent that connects Nebius AI with Cal.com for availability checks, booking creation, rescheduling, cancellation, upcoming booking lookup, CLI usage, timezone conversion, and a deployable Next.js project website. | Agno, Cal.com API, Nebius, Next.js |
+| [Smart Scheduler Assistant](https://github.com/tirth1263/smart-scheduler-assistant) | Developed an Agno multi-agent productivity assistant that reads Gmail, filters important scheduling emails, coordinates email and calendar agents, manages Google Calendar events, stores action memory in SQLite, and includes a polished Next.js website. | Agno, Gmail API, Google Calendar, SQLite |
+| [Web Automation Agent](https://github.com/tirth1263/web-automation-agent) | Built a Browser Use web automation agent powered by Nebius Token Factory that follows natural-language instructions to control a real browser, search ecommerce pages, extract product data, and return results in Markdown. | Browser Use, Nebius, Python, Web Automation |
 | [Newsletter Generator](https://github.com/tirth1263/newsletter-generator) | Built an AI-powered newsletter generator that researches topics with Firecrawl, orchestrates generation through Agno, uses Nebius AI for writing, and provides a Streamlit interface with markdown download and deployment-ready files. | Streamlit, Agno, Firecrawl, Nebius |
 | [Reasoning Agent](https://github.com/tirth1263/reasoning-agent) | Developed a transparent financial reasoning agent that breaks investment questions into assumptions, reasoning steps, tool calls, risk profiling, allocation suggestions, and balanced recommendations. | Agno, Nebius, Financial Reasoning |
 | [Agno UI Example](https://github.com/tirth1263/agno-ui-example) | Built an end-to-end Agno Agent UI playground with Nebius-powered web research and finance agents, persistent SQLite conversations, DuckDuckGo search, YFinance tools, and a Next.js chat interface. | Agno, Next.js, YFinance, DuckDuckGo |
@@ -163,18 +166,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260612" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260614" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260612" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260614" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260612" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260614" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260612" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260614" alt="GitHub Activity Graph" />
 
 </div>
