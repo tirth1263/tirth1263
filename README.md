@@ -82,6 +82,7 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [ASU Robotics AB Site](https://github.com/tirth1263/asu-robotics-ab-site) | Built a published robotics lab website and documentation interface for ASU Design School Robotics Lab, presenting KUKA KR10/KRC5 details, workflow references, safety resources, and robotic fabrication knowledge-base navigation. | Robotics Documentation, Next.js, HTML |
 | [RAS-545 Robotics Systems 1](https://github.com/tirth1263/RAS-545-Robotics-Systems-1) | Developed robotics-focused lab work involving system-level modeling, robotics concepts, algorithmic problem solving, and simulation-oriented implementation. | Robotics, Python, Jupyter Notebook |
 | [EEE-598 Deep Learning Foundations & Applications](https://github.com/tirth1263/EEE-598-Deep-Learning-Fondations-and-Applications) | Implemented advanced deep learning labs covering neural networks, attention mechanisms, multi-head attention, GANs, diffusion models, GNNs, and accelerator-based workflows. | Deep Learning, Python, Jupyter Notebook |
 | Visual Question Answering Model | Built an AI pipeline designed to answer questions from visual inputs by combining image understanding with intelligent reasoning. | Computer Vision, Deep Learning, AI |
@@ -107,6 +108,9 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [Nebius Chat](https://github.com/tirth1263/nebius-chat) | Built a polished Streamlit AI studio for Nebius Token Factory models with multi-model chat, image generation, custom instructions, reasoning visibility, export tools, token tracking, and usage analytics. | Streamlit, Nebius, Image Generation, LLM Apps |
+| [RouteLLM Chat](https://github.com/tirth1263/route-llm-chat) | Developed an intelligent chat application that automatically routes prompts between a cost-effective Nebius Llama model and GPT-4o-mini using RouteLLM, with Streamlit and hosted Next.js implementations. | RouteLLM, Streamlit, Next.js, LiteLLM |
+| [Talk to Your DB](https://github.com/tirth1263/talk-to-your-db) | Built an AI-powered MySQL query assistant that converts plain-English business questions into safe read-only SQL using Nebius Token Factory, schema-aware prompting, result explanations, CSV export, and Streamlit/Next.js interfaces. | Nebius, MySQL, Streamlit, Next.js |
 | [Calendar Assistant](https://github.com/tirth1263/calendar-assistant) | Built an Agno-powered scheduling agent that connects Nebius AI with Cal.com for availability checks, booking creation, rescheduling, cancellation, upcoming booking lookup, CLI usage, timezone conversion, and a deployable Next.js project website. | Agno, Cal.com API, Nebius, Next.js |
 | [Smart Scheduler Assistant](https://github.com/tirth1263/smart-scheduler-assistant) | Developed an Agno multi-agent productivity assistant that reads Gmail, filters important scheduling emails, coordinates email and calendar agents, manages Google Calendar events, stores action memory in SQLite, and includes a polished Next.js website. | Agno, Gmail API, Google Calendar, SQLite |
 | [Web Automation Agent](https://github.com/tirth1263/web-automation-agent) | Built a Browser Use web automation agent powered by Nebius Token Factory that follows natural-language instructions to control a real browser, search ecommerce pages, extract product data, and return results in Markdown. | Browser Use, Nebius, Python, Web Automation |
@@ -166,18 +170,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260614" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260617" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260614" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260617" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260614" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260617" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260614" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260617" alt="GitHub Activity Graph" />
 
 </div>
