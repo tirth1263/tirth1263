@@ -108,6 +108,8 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [LangChain Simple Agents](https://github.com/tirth1263/langchain-simple-agents) | Built production-oriented LangChain agent examples powered by Nebius Token Factory, including incident response, customer support resolution, vendor risk compliance, and data quality operations workflows with structured outputs and audit-aware tool usage. | LangChain, Nebius, Python, AI Agents |
+| [AI Agent Discovery Agent](https://github.com/tirth1263/agent-discovery-agent) | Developed an AI agent discovery CLI and web showcase that searches agents across NANDA, MCP, Virtuals, A2A, and ERC-8004 registries through the HOL Registry Broker API with Agno and Nebius-powered natural-language intent parsing. | Agno, Nebius, Registry Broker API, Python |
 | [Nebius Chat](https://github.com/tirth1263/nebius-chat) | Built a polished Streamlit AI studio for Nebius Token Factory models with multi-model chat, image generation, custom instructions, reasoning visibility, export tools, token tracking, and usage analytics. | Streamlit, Nebius, Image Generation, LLM Apps |
 | [RouteLLM Chat](https://github.com/tirth1263/route-llm-chat) | Developed an intelligent chat application that automatically routes prompts between a cost-effective Nebius Llama model and GPT-4o-mini using RouteLLM, with Streamlit and hosted Next.js implementations. | RouteLLM, Streamlit, Next.js, LiteLLM |
 | [Talk to Your DB](https://github.com/tirth1263/talk-to-your-db) | Built an AI-powered MySQL query assistant that converts plain-English business questions into safe read-only SQL using Nebius Token Factory, schema-aware prompting, result explanations, CSV export, and Streamlit/Next.js interfaces. | Nebius, MySQL, Streamlit, Next.js |
@@ -170,18 +172,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260617" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260617-2" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260617" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260617-2" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260617" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260617-2" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260617" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260617-2" alt="GitHub Activity Graph" />
 
 </div>
