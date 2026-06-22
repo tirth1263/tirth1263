@@ -108,6 +108,7 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [Healthcare Voice Contact Center](https://github.com/tirth1263/healthcare-voice-contact-center) | Built a real-time healthcare clinic voice AI contact center using Pipecat, Cartesia STT/TTS, and Nebius Token Factory, with appointment scheduling tools, FAQ lookup, escalation handling, supervisor voice switching, WebRTC/Daily transport support, tests, and a polished Next.js project website. | Pipecat, Cartesia, Nebius, Voice AI |
 | [LangChain Data Agent PoC](https://github.com/tirth1263/langchain-data-agent-poc) | Built a compact LangChain and LangGraph natural-language-to-SQL data agent that rewrites follow-up questions, routes analytics domains, validates read-only SQL, executes safe SQLite queries, summarizes results, and suggests charts through both Streamlit and CLI interfaces. | LangChain, LangGraph, SQLite, Streamlit |
 | [VoyageCompass Travel Planner](https://github.com/tirth1263/voyage-compass-travel-planner) | Developed a Nebius and LangChain-powered Streamlit travel-planning assistant that turns short trip briefs into practical itineraries and supports follow-up chat refinement for personalized travel planning. | LangChain, Nebius, Streamlit, Travel AI |
 | [Gradium Nebius Voice Coach](https://github.com/tirth1263/gradium-nebius-voice-coach) | Created a conversational voice-coaching agent using Gradium STT/TTS, LangChain orchestration, and Nebius reasoning to transcribe answers, evaluate responses, generate coaching feedback, and speak the next prompt back to the user. | Gradium, Nebius, LangChain, Voice Agents |
@@ -175,18 +176,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260621" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260621-2" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260621" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260621-2" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260621" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260621-2" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260621" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260621-2" alt="GitHub Activity Graph" />
 
 </div>
