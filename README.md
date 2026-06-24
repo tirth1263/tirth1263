@@ -108,6 +108,10 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [LiveKit Gemini Realtime Voice Agent](https://github.com/tirth1263/livekit-gemini-realtime) | Built a real-time speech-to-speech voice assistant that connects Google Gemini Live API to LiveKit rooms, using LiveKit Agents, Gemini realtime responses, Silero VAD, configurable voices, environment-driven setup, and a deployment-ready Next.js website. | LiveKit, Gemini Live, Python, Next.js |
+| [LiveKit Voice Agent with Web Search](https://github.com/tirth1263/livekit-voice-agent-with-web-search) | Developed a realtime LiveKit and Gemini Live voice assistant with an Olostep-powered web search tool, enabling source-backed spoken answers for current and factual queries through a compact Python agent and Vite project website. | LiveKit, Gemini Live, Olostep, Python |
+| [LiveKit RSVP Confirmation Agent](https://github.com/tirth1263/livekit-rsvp-confirmation-agent) | Built an outbound SIP voice agent for event RSVP confirmation that calls pending attendees, confirms attendance, captures guest counts, updates JSON-backed RSVP records, retries failed dials, and uses LiveKit, Deepgram STT, Nebius LLM, Cartesia TTS, and Silero VAD. | LiveKit SIP, Deepgram, Nebius, Cartesia |
+| [Pipecat Sarvam Voice Agent](https://github.com/tirth1263/pipecat-sarvam) | Created a real-time Pipecat voice assistant using Sarvam STT/TTS and Nebius Token Factory, with a streaming mic-to-STT-to-LLM-to-TTS pipeline, Indic-language voice support, WebRTC/Daily transports, configurable models, and a published Next.js project website. | Pipecat, Sarvam, Nebius, WebRTC |
 | [Healthcare Voice Contact Center](https://github.com/tirth1263/healthcare-voice-contact-center) | Built a real-time healthcare clinic voice AI contact center using Pipecat, Cartesia STT/TTS, and Nebius Token Factory, with appointment scheduling tools, FAQ lookup, escalation handling, supervisor voice switching, WebRTC/Daily transport support, tests, and a polished Next.js project website. | Pipecat, Cartesia, Nebius, Voice AI |
 | [LangChain Data Agent PoC](https://github.com/tirth1263/langchain-data-agent-poc) | Built a compact LangChain and LangGraph natural-language-to-SQL data agent that rewrites follow-up questions, routes analytics domains, validates read-only SQL, executes safe SQLite queries, summarizes results, and suggests charts through both Streamlit and CLI interfaces. | LangChain, LangGraph, SQLite, Streamlit |
 | [VoyageCompass Travel Planner](https://github.com/tirth1263/voyage-compass-travel-planner) | Developed a Nebius and LangChain-powered Streamlit travel-planning assistant that turns short trip briefs into practical itineraries and supports follow-up chat refinement for personalized travel planning. | LangChain, Nebius, Streamlit, Travel AI |
@@ -176,18 +180,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260621-2" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260623" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260621-2" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260623" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260621-2" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260623" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260621-2" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260623" alt="GitHub Activity Graph" />
 
 </div>
