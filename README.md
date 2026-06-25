@@ -82,6 +82,7 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [Rhino 3D Projects](https://github.com/tirth1263/Rhino-3D-Projects) | Built a Rhino 3D and Grasshopper project collection for robot-assisted plotting and architectural fabrication workflows, including independent drawing-tool concepts, KRL robot-program export folders, PRC/KUKA workflow support, and fabrication systems such as facade screens, waffle pavilion ribs, folded-plate canopies, acoustic diffuser walls, and reciprocal timber grids. | Rhino 3D, Grasshopper, Robotic Fabrication |
 | [ASU Robotics AB Site](https://github.com/tirth1263/asu-robotics-ab-site) | Built a published robotics lab website and documentation interface for ASU Design School Robotics Lab, presenting KUKA KR10/KRC5 details, workflow references, safety resources, and robotic fabrication knowledge-base navigation. | Robotics Documentation, Next.js, HTML |
 | [RAS-545 Robotics Systems 1](https://github.com/tirth1263/RAS-545-Robotics-Systems-1) | Developed robotics-focused lab work involving system-level modeling, robotics concepts, algorithmic problem solving, and simulation-oriented implementation. | Robotics, Python, Jupyter Notebook |
 | [EEE-598 Deep Learning Foundations & Applications](https://github.com/tirth1263/EEE-598-Deep-Learning-Fondations-and-Applications) | Implemented advanced deep learning labs covering neural networks, attention mechanisms, multi-head attention, GANs, diffusion models, GNNs, and accelerator-based workflows. | Deep Learning, Python, Jupyter Notebook |
@@ -180,18 +181,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260623" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260625" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260623" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260625" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260623" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260625" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260623" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260625" alt="GitHub Activity Graph" />
 
 </div>
