@@ -109,6 +109,7 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [Speed-to-Lead Voice Agent](https://github.com/tirth1263/speed-to-lead-voice-agent) | Built a production-shaped speed-to-lead voice AI demo that calls new leads immediately, creates LiveKit rooms, routes conversations to quote, scheduling, or emergency specialists, qualifies lead details, stores outcomes in a mock CRM, and supports optional outbound SIP dialing with a FastAPI backend and deployable Next.js website. | LiveKit, Deepgram, Nebius, Cartesia |
 | [LiveKit Gemini Realtime Voice Agent](https://github.com/tirth1263/livekit-gemini-realtime) | Built a real-time speech-to-speech voice assistant that connects Google Gemini Live API to LiveKit rooms, using LiveKit Agents, Gemini realtime responses, Silero VAD, configurable voices, environment-driven setup, and a deployment-ready Next.js website. | LiveKit, Gemini Live, Python, Next.js |
 | [LiveKit Voice Agent with Web Search](https://github.com/tirth1263/livekit-voice-agent-with-web-search) | Developed a realtime LiveKit and Gemini Live voice assistant with an Olostep-powered web search tool, enabling source-backed spoken answers for current and factual queries through a compact Python agent and Vite project website. | LiveKit, Gemini Live, Olostep, Python |
 | [LiveKit RSVP Confirmation Agent](https://github.com/tirth1263/livekit-rsvp-confirmation-agent) | Built an outbound SIP voice agent for event RSVP confirmation that calls pending attendees, confirms attendance, captures guest counts, updates JSON-backed RSVP records, retries failed dials, and uses LiveKit, Deepgram STT, Nebius LLM, Cartesia TTS, and Silero VAD. | LiveKit SIP, Deepgram, Nebius, Cartesia |
@@ -181,18 +182,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260625" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260626" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260625" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260626" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260625" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260626" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260625" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260626" alt="GitHub Activity Graph" />
 
 </div>
