@@ -109,6 +109,8 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [LangGraph MCP Agent](https://github.com/tirth1263/LangGraph-MCP-Agent) | Built a LangChain and LangGraph ReAct agent that lets users query Couchbase databases in plain English through the Model Context Protocol, with runtime MCP tool discovery, read-only database access, N1QL query execution, Streamlit chat UI, tutorial notebook, and GitHub Pages showcase. | LangGraph, LangChain, MCP, Couchbase |
+| [GitHub MCP Agent](https://github.com/tirth1263/Github-MCP-Agent) | Developed a natural-language GitHub repository exploration agent powered by MCP, Agno, Nebius AI, and Streamlit, enabling users to inspect repository structure, understand codebases, and ask questions about GitHub projects through an AI-assisted interface. | MCP, Agno, Nebius, Streamlit |
 | [VoxCode Cursor Code Editor](https://github.com/tirth1263/VoxCode-Cursor-Code-Editor) | Built a local voice AI coding workspace that lets users talk to a codebase, request summaries, explore architecture, and optionally allow Cursor SDK file edits through a Deepgram voice layer, Nebius MiniMax reasoning, TypeScript backend, WebSocket proxy, and Vite/React interface. | Deepgram, Nebius, Cursor SDK, TypeScript |
 | [Doc-MCP Documentation RAG System](https://github.com/tirth1263/doc-mcp) | Developed a documentation RAG system that transforms GitHub documentation repositories into queryable knowledge bases using async GitHub ingestion, Nebius embeddings and LLMs, MongoDB Atlas Vector Search, Gradio UI, incremental updates, cited Q&A, and MCP-compatible documentation search tools. | RAG, MCP, Gradio, MongoDB Atlas |
 | [Speed-to-Lead Voice Agent](https://github.com/tirth1263/speed-to-lead-voice-agent) | Built a production-shaped speed-to-lead voice AI demo that calls new leads immediately, creates LiveKit rooms, routes conversations to quote, scheduling, or emergency specialists, qualifies lead details, stores outcomes in a mock CRM, and supports optional outbound SIP dialing with a FastAPI backend and deployable Next.js website. | LiveKit, Deepgram, Nebius, Cartesia |
@@ -184,18 +186,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260629" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260701" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260629" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260701" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260629" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260701" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260629" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260701" alt="GitHub Activity Graph" />
 
 </div>
