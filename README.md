@@ -109,6 +109,7 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [Hotel Finder Agent](https://github.com/tirth1263/hotel-finder-agent) | Built an advanced AI-powered hotel search and discovery app with Streamlit, Nebius-hosted models, MCP tooling, OpenBNB Airbnb MCP integration, quick and advanced search modes, listing detail retrieval, structured filters, session history, JSON export, Docker support, Render deployment, and a published project website. | Streamlit, Nebius, MCP, OpenBNB |
 | [MCP Starter](https://github.com/tirth1263/mcp-starter) | Built an AI-powered GitHub repository analysis tool using Model Context Protocol, GitHub API access, Nebius Llama inference, a local MCP server/client workflow, issue and commit analysis, rich terminal output, secure environment configuration, tests, and a deployment-ready project website. | MCP, GitHub API, Nebius, Python |
 | [Talk to Your Docs](https://github.com/tirth1263/talk-to-your-docs) | Created a Streamlit documentation Q&A agent that turns MCP-enabled documentation sites into conversational assistants using Agno MCPTools, Nebius AI, DeepSeek-V3, flexible docs URLs, chat history, sidebar configuration, secure key handling, and deployment-ready structure. | Streamlit, Agno, MCP, Nebius |
 | [Database MCP Agent](https://github.com/tirth1263/database-mcp-agent) | Developed a conversational GibsonAI database assistant that uses Agno, Nebius, and GibsonAI MCP tools to create database projects, design schemas, define tables and relationships, deploy schema changes, inspect database structure, query data, and run terminal chat workflows. | Agno, MCP, GibsonAI, Nebius |
@@ -189,18 +190,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260705" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260707" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260705" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260707" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260705" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260707" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260705" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260707" alt="GitHub Activity Graph" />
 
 </div>
