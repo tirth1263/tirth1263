@@ -109,6 +109,9 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [Docker E2B MCP Agent](https://github.com/tirth1263/docker-e2b-mcp-agent) | Built RepoBrief, a secure GitHub-to-Notion automation agent that runs official GitHub and Notion MCP servers inside disposable E2B sandboxes, connects through the OpenAI Agents SDK, uses Nebius Token Factory reasoning, supports CLI tool discovery and custom tasks, and includes Docker, tests, CI, sandbox teardown, and a production website. | E2B, MCP, OpenAI Agents SDK, Nebius |
+| [Taskade MCP Agent](https://github.com/tirth1263/taskade-mcp-agent) | Created an AI-powered Taskade workspace agent that uses Agno, Nebius Qwen, Streamlit, and Taskade's official MCP server to create projects, manage tasks, check deadlines, organize workflows, run query templates, accept runtime API keys, and deploy on Streamlit Community Cloud. | Taskade, Agno, MCP, Streamlit |
+| [Telemetry MCP Okahu](https://github.com/tirth1263/telemetry-mcp-okahu) | Developed a self-healing AI debugging demo where an agent fixes a deliberately broken Text-to-SQL FastAPI service using only Okahu Cloud traces from Monocle instrumentation, hosted Okahu MCP queries, iterative pytest failures, trace-backed diagnosis, archived fixes, and evidence-based repair loops. | Okahu, Monocle, MCP, FastAPI |
 | [Couchbase MCP Server](https://github.com/tirth1263/couchbase-mcp-server) | Built a production-shaped Couchbase MCP server and OpenAI Agents SDK demo that connects natural-language agents to Couchbase travel-sample data through stdio MCP tools, scoped SQL++ execution, safe mutation blocking, notebook and CLI demos, tests, and a published project website. | Couchbase, MCP, OpenAI Agents SDK, Nebius |
 | [ScaleKit Exa MCP Security](https://github.com/tirth1263/ScaleKit-Exa-MCP-Security) | Developed a production-ready Exa Search MCP server secured with ScaleKit OAuth 2.1 and FastAPI, providing authenticated and scoped web-search, content-retrieval, and similar-page tools through Streamable HTTP, protected-resource metadata, Docker support, Render deployment, CI, tests, and a published website. | ScaleKit, Exa, MCP, FastAPI |
 | [Hotel Finder Agent](https://github.com/tirth1263/hotel-finder-agent) | Built an advanced AI-powered hotel search and discovery app with Streamlit, Nebius-hosted models, MCP tooling, OpenBNB Airbnb MCP integration, quick and advanced search modes, listing detail retrieval, structured filters, session history, JSON export, Docker support, Render deployment, and a published project website. | Streamlit, Nebius, MCP, OpenBNB |
@@ -192,18 +195,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260709" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260716" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260709" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260716" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260709" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260716" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260709" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260716" alt="GitHub Activity Graph" />
 
 </div>
