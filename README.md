@@ -109,6 +109,9 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 | Project | Summary | Tech Focus |
 |---|---|---|
+| [AI Consultant Agent with Memory](https://github.com/tirth1263/ai-consultant-agent-with-memory) | Built Northstar, a research-grounded AI readiness advisor that captures company context, retrieves current case-study evidence with Tavily, uses OpenAI structured reasoning, preserves consulting memory with Memori v3 and SQLite, and generates prioritized AI initiatives, risk analysis, cost bands, and a staged 90-day roadmap through a Streamlit workspace. | OpenAI, Tavily, Memori, Streamlit |
+| [arXiv Researcher Agent with Memory](https://github.com/tirth1263/arXiv-researcher-agent-with-memory) | Developed a memory-native arXiv research assistant using OpenAI Agents SDK, Nebius, Tavily, Memori, Streamlit, SQLite, and FTS5 to recall prior sessions, search arXiv evidence, compare papers, generate citation-oriented research reports, and preserve a searchable research library. | OpenAI Agents SDK, Nebius, Tavily, Memori |
+| [Blog Writing Agent](https://github.com/tirth1263/blog-writing-agent) | Created Inkprint, an AI blog writing studio that learns a writer's tone, rhythm, structure, vocabulary, and signature traits from PDF, DOCX, TXT, or Markdown samples, then generates original articles using DigitalOcean Gradient AI, Memori memory, SQLite artifact storage, and a Streamlit interface. | DigitalOcean Gradient AI, Memori, Streamlit, Generative AI |
 | [Docker E2B MCP Agent](https://github.com/tirth1263/docker-e2b-mcp-agent) | Built RepoBrief, a secure GitHub-to-Notion automation agent that runs official GitHub and Notion MCP servers inside disposable E2B sandboxes, connects through the OpenAI Agents SDK, uses Nebius Token Factory reasoning, supports CLI tool discovery and custom tasks, and includes Docker, tests, CI, sandbox teardown, and a production website. | E2B, MCP, OpenAI Agents SDK, Nebius |
 | [Taskade MCP Agent](https://github.com/tirth1263/taskade-mcp-agent) | Created an AI-powered Taskade workspace agent that uses Agno, Nebius Qwen, Streamlit, and Taskade's official MCP server to create projects, manage tasks, check deadlines, organize workflows, run query templates, accept runtime API keys, and deploy on Streamlit Community Cloud. | Taskade, Agno, MCP, Streamlit |
 | [Telemetry MCP Okahu](https://github.com/tirth1263/telemetry-mcp-okahu) | Developed a self-healing AI debugging demo where an agent fixes a deliberately broken Text-to-SQL FastAPI service using only Okahu Cloud traces from Monocle instrumentation, hosted Okahu MCP queries, iterative pytest failures, trace-backed diagnosis, archived fixes, and evidence-based repair loops. | Okahu, Monocle, MCP, FastAPI |
@@ -195,18 +198,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260716" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260719" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260716" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260719" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260716" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260719" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260716" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260719" alt="GitHub Activity Graph" />
 
 </div>
