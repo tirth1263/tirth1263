@@ -130,17 +130,21 @@ I am especially interested in creating intelligent autonomous systems that combi
 | [B2B Competitor Intelligence Engine](https://github.com/tirth1263/b2b-competitor-intelligence-engine) | An intelligence-focused platform for competitor tracking and business decision support. | B2B Intelligence, Analytics, Web Development |
 
 ---
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tirth1263/tirth1263/main/profile-summary-card-output/tokyonight/3-stats.svg?v=20260730" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tirth1263&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/tirth1263/tirth1263/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=20260730" alt="Top Languages" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260730" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260730" alt="Top Languages" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260730" alt="GitHub Activity Graph" />
 
 </div>
-
