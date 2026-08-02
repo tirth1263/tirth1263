@@ -133,7 +133,7 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tirth1263&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/tirth1263/tirth1263/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
 
 <br/><br/>
 
@@ -141,7 +141,7 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260730" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/tirth1263/tirth1263/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
 
 <br/><br/>
 
