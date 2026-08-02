@@ -8,9 +8,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirth%20Rank-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tirth-rank)
-[![Email](https://img.shields.io/badge/Email-tirth.rank%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tirth.rank@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-tirth1263-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tirth1263)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirth%20Rank-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirth-rank)
+[![Email](https://img.shields.io/badge/Email-tirth.rank%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tirth.rank@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-tirth1263-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tirth1263)
 
 </div>
 
@@ -31,11 +31,11 @@ I am especially interested in creating intelligent autonomous systems that combi
 <div align="center">
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Artificial Intelligence & Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
@@ -46,25 +46,25 @@ I am especially interested in creating intelligent autonomous systems that combi
 ![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-00BFFF?style=for-the-badge)
 
 ### Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Data, Big Data & Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge\&logo=apachehadoop\&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge\&logo=apachehive\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![NoSQL](https://img.shields.io/badge/NoSQL-005571?style=for-the-badge)
 
 ### Tools & Engineering Platforms
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge\&logo=autodesk\&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 </div>
 
@@ -133,7 +133,7 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirth1263&theme=tokyonight&cache_seconds=1800&v=20260730" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tirth1263&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <br/><br/>
 
