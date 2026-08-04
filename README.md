@@ -112,6 +112,7 @@ I am especially interested in creating intelligent autonomous systems that combi
 | [Study Coach Agent](https://github.com/tirth1263/study-coach-agent) | An AI-powered study coach that helps learners plan what to study, verify understanding, and track long-term learning progress. | Streamlit, LangGraph, Memori, SQLAlchemy |
 | [Social Media Agent](https://github.com/tirth1263/social-media-agent) | An AI-powered social media automation app that learns your writing style, stores it with memory, generates new posts, and publishes through Composio. | Streamlit, Nebius, Memori, Composio |
 | [YouTube Trend Agent](https://github.com/tirth1263/youtube-trend-agent) | An AI-powered YouTube trend coach that turns your channel history into practical, trend-aware video ideas. | Streamlit, yt-dlp, Memori, Exa |
+| [Docker E2B MCP Agent](https://github.com/tirth1263/docker-e2b-mcp-agent) | A secure GitHub-to-Notion automation agent built with E2B sandboxes, MCP servers, and the OpenAI Agents SDK. | E2B, MCP, OpenAI Agents SDK, Nebius |
 | [Agentic-RAG with Agno and GPT-5](https://github.com/tirth1263/Agentic-RAG-with-Agno-and-GPT-5) | A next-generation agentic retrieval system that combines structured reasoning, grounded search, and GPT-5-based response generation. | Agno, GPT-5, RAG, AI Agents |
 | [Agentic typed RAG with LlamaIndex](https://github.com/tirth1263/Agentic-typed-RAG-with-Llama-index) | A typed agentic RAG system built with LlamaIndex for reliable retrieval, structured outputs, and grounded question answering. | LlamaIndex, Typed RAG, Retrieval, AI Agents |
 | [ScaleKit Exa MCP Security](https://github.com/tirth1263/ScaleKit-Exa-MCP-Security) | A secure Exa Search MCP server with OAuth 2.1, scoped retrieval tools, and Streamable HTTP. | ScaleKit, Exa, MCP, FastAPI |
@@ -133,18 +134,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tirth1263/tirth1263/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/tirth1263/tirth1263/main/profile-summary-card-output/tokyonight/3-stats.svg?v=20260803" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260730" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/tirth1263/tirth1263/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=20260803" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/tirth1263/tirth1263/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260803" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260730" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260803" alt="GitHub Activity Graph" />
 
 </div>
