@@ -143,18 +143,18 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tirth1263/tirth1263/main/profile-summary-card-output/tokyonight/3-stats.svg?v=20260816" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/tirth1263/tirth1263/main/profile-summary-card-output/tokyonight/3-stats.svg?v=20260818" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/tirth1263/tirth1263/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=20260816" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/tirth1263/tirth1263/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=20260818" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&cache_seconds=1800&v=20260816" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&timezone=Asia/Kolkata&cache_seconds=0&v=20260818" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800&v=20260816" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=0&v=20260818" alt="GitHub Activity Graph" />
 
 </div>
