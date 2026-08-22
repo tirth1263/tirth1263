@@ -18,7 +18,7 @@
 
 ---
 
-## About Me
+## About Me 
 
 I am a **Robotics and Artificial Intelligence Engineer** currently pursuing an **M.S. in Robotics & Autonomous Systems with an Artificial Intelligence concentration at Arizona State University**. I hold a **B.Tech in Artificial Intelligence & Machine Learning from SVKM's NMIMS MPSTME** and have hands-on experience across AI, ML, Deep Learning, Computer Vision, NLP, Data Analytics, Robotics, XR, and Intelligent Automation.
 
