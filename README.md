@@ -157,4 +157,4 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&cache_seconds=0&v=20260818" alt="GitHub Activity Graph" />
 
- 
+ </div>
