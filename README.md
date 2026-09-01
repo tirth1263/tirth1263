@@ -157,4 +157,4 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <img src="https://raw.githubusercontent.com/tirth1263/tirth1263/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Activity Graph" />
 
-
+</div>
