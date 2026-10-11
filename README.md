@@ -157,4 +157,3 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 <img src="https://gh-stats-xcards.fly.dev/stats/tirth1263?card=contribution-graph&theme=tokyonight" alt="GitHub Activity Graph" />
 
-</div>
