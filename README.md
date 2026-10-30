@@ -87,74 +87,74 @@ I am especially interested in creating intelligent autonomous systems that combi
 
 ### Robotics, Autonomous Systems & Deep Learning
 
-| Project                                                                                                                            | Summary                                                                                                                                         | Tech Focus                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [Rhino 3D Projects](https://github.com/tirth1263/Rhino-3D-Projects)                                                                | A Rhino 3D and Grasshopper fabrication portfolio focused on robot-assisted plotting, parametric design, and architectural production workflows. | Rhino 3D, Grasshopper, Robotic Fabrication     |
-| [Rhino 3D Hot-Wire Projects](https://github.com/tirth1263/Rhino-3d-Hotwire-Projects)                                               | Rhino 3D, Grasshopper, and C# examples for generating and studying geometric hot-wire toolpaths.                                                | Rhino 3D, Grasshopper, C#, Robotic Fabrication |
-| [ASU Robotics AB Site](https://github.com/tirth1263/asu-robotics-ab-site)                                                          | A published robotics lab website for ASU Robotics with KUKA KR10/KRC5 details, workflow references, and safety resources.                       | Robotics Documentation, Next.js, HTML          |
-| [RAS-545 Robotics Systems 1](https://github.com/tirth1263/RAS-545-Robotics-Systems-1)                                              | Robotics coursework covering system modeling, algorithmic problem solving, and simulation-oriented implementation.                              | Robotics, Python, Jupyter Notebook             |
-| [EEE-598 Deep Learning Foundations & Applications](https://github.com/tirth1263/EEE-598-Deep-Learning-Fondations-and-Applications) | Advanced deep learning labs spanning attention, GANs, diffusion models, GNNs, and accelerator-based workflows.                                  | Deep Learning, Python, Jupyter Notebook        |
+| Project | Summary | Tech Focus |
+| --- | --- | --- |
+| [Rhino 3D Projects](https://github.com/tirth1263/Rhino-3D-Projects) | A Rhino 3D and Grasshopper fabrication portfolio focused on robot-assisted plotting, parametric design, and architectural production workflows. | Rhino 3D, Grasshopper, Robotic Fabrication |
+| [Rhino 3D Hot-Wire Projects](https://github.com/tirth1263/Rhino-3d-Hotwire-Projects) | Rhino 3D, Grasshopper, and C# examples for generating and studying geometric hot-wire toolpaths. | Rhino 3D, Grasshopper, C#, Robotic Fabrication |
+| [ASU Robotics AB Site](https://github.com/tirth1263/asu-robotics-ab-site) | A published robotics lab website for ASU Robotics with KUKA KR10/KRC5 details, workflow references, and safety resources. | Robotics Documentation, Next.js, HTML |
+| [RAS-545 Robotics Systems 1](https://github.com/tirth1263/RAS-545-Robotics-Systems-1) | Robotics coursework covering system modeling, algorithmic problem solving, and simulation-oriented implementation. | Robotics, Python, Jupyter Notebook |
+| [EEE-598 Deep Learning Foundations & Applications](https://github.com/tirth1263/EEE-598-Deep-Learning-Fondations-and-Applications) | Advanced deep learning labs spanning attention, GANs, diffusion models, GNNs, and accelerator-based workflows. | Deep Learning, Python, Jupyter Notebook |
 
 ---
 
 ### Computer Vision & Healthcare AI
 
-| Project                                                                                                                      | Summary                                                                                                                   | Tech Focus                               |
-| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| Project | Summary | Tech Focus |
+| --- | --- | --- |
 | [Satellite Imagery or Drone Feed Change Tracker](https://github.com/tirth1263/satellite-imagery-or-drone-feed-chage-tracker) | A geospatial change-detection pipeline for comparing satellite or drone imagery and exporting map-ready change artifacts. | Geospatial CV, React, TypeScript, OpenCV |
-| [X-Ray Fracture Detection — 92.5% Accuracy](https://github.com/tirth1263/X-ray-dataset-for-fractured-bones-92.5-accuracy) | A healthcare AI workflow for fracture classification, preprocessing, training, evaluation, and performance tracking.      | Healthcare AI, Deep Learning, Python     |
-| [140k Real vs Fake Detection — 97.395% Accuracy](https://github.com/tirth1263/140k-real-vs-fake-97.395-accuracy)             | A large-scale image classification model for distinguishing real and fake images using deep learning.                     | CNN, Image Classification, Deep Learning |
-| [Face Recognition Using Haar Cascade](https://github.com/tirth1263/Face-recognition-using-haarcascade)                       | A face recognition system built with OpenCV and Python for detection and recognition workflows.                           | OpenCV, Python, Face Recognition         |
+| [X-Ray Fracture Detection — 92.5% Accuracy](https://github.com/tirth1263/X-ray-dataset-for-fractured-bones-92.5-accuracy) | A healthcare AI workflow for fracture classification, preprocessing, training, evaluation, and performance tracking. | Healthcare AI, Deep Learning, Python |
+| [140k Real vs Fake Detection — 97.395% Accuracy](https://github.com/tirth1263/140k-real-vs-fake-97.395-accuracy) | A large-scale image classification model for distinguishing real and fake images using deep learning. | CNN, Image Classification, Deep Learning |
+| [Face Recognition Using Haar Cascade](https://github.com/tirth1263/Face-recognition-using-haarcascade) | A face recognition system built with OpenCV and Python for detection and recognition workflows. | OpenCV, Python, Face Recognition |
 
 ---
 
 ### Machine Learning, NLP & Data Analytics
 
-| Project                                                                                              | Summary                                                                                                                                               | Tech Focus                                  |
-| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| [Brand Reputation Monitor](https://github.com/tirth1263/brand-reputation-monitor)                    | An evidence-first brand intelligence app that monitors news, analyzes reputation signals, and preserves follow-up context with memory.                | Bright Data, Agno, Nebius, Memori           |
-| [Customer Support Voice Agent](https://github.com/tirth1263/customer-support-voice-agent)            | A voice-enabled support assistant that uses docs or FAQ sources, memory, and grounded TTS responses for customer queries.                             | Streamlit, OpenAI, Memori, Firecrawl        |
-| [Persistent Memory Agent](https://github.com/tirth1263/persistent-memory-agent-agno)                 | An AI agent that remembers users across turns, sessions, and restarts with durable long-term memory and persisted chat history.                       | Agno, Nebius, SQLite, Agent Memory          |
-| [Smart Product Launch Agent](https://github.com/tirth1263/smart-product-launch-agent)                | A multi-agent competitive-intelligence system that researches how competitors launched products and turns it into decision-ready insights.            | Agno, Bright Data, Memori, MongoDB          |
-| [Study Coach Agent](https://github.com/tirth1263/study-coach-agent)                                  | An AI-powered study coach that helps learners plan what to study, verify understanding, and track long-term learning progress.                        | Streamlit, LangGraph, Memori, SQLAlchemy    |
-| [Social Media Agent](https://github.com/tirth1263/social-media-agent)                                | An AI-powered social media automation app that learns your writing style, stores it with memory, generates new posts, and publishes through Composio. | Streamlit, Nebius, Memori, Composio         |
-| [YouTube Trend Agent](https://github.com/tirth1263/youtube-trend-agent)                              | An AI-powered YouTube trend coach that turns your channel history into practical, trend-aware video ideas.                                            | Streamlit, yt-dlp, Memori, Exa              |
-| [Docker E2B MCP Agent](https://github.com/tirth1263/docker-e2b-mcp-agent)                            | A secure GitHub-to-Notion automation agent built with E2B sandboxes, MCP servers, and the OpenAI Agents SDK.                                          | E2B, MCP, OpenAI Agents SDK, Nebius         |
-| [NVIDIA-Nemotron-Document-OCR](https://github.com/tirth1263/NVIDIA-Nemotron-Document-OCR)            | An OCR and document intelligence project focused on extracting structured information from documents using NVIDIA Nemotron-based workflows.           | OCR, Document AI, NVIDIA, LLMs              |
-| [Agentic-RAG with Agno and GPT-5](https://github.com/tirth1263/Agentic-RAG-with-Agno-and-GPT-5)      | A next-generation agentic retrieval system that combines structured reasoning, grounded search, and GPT-5-based response generation.                  | Agno, GPT-5, RAG, AI Agents                 |
-| [Agentic typed RAG with LlamaIndex](https://github.com/tirth1263/Agentic-typed-RAG-with-Llama-index) | A typed agentic RAG system built with LlamaIndex for reliable retrieval, structured outputs, and grounded question answering.                         | LlamaIndex, Typed RAG, Retrieval, AI Agents |
-| [ScaleKit Exa MCP Security](https://github.com/tirth1263/ScaleKit-Exa-MCP-Security)                  | A secure Exa Search MCP server with OAuth 2.1, scoped retrieval tools, and Streamable HTTP.                                                           | ScaleKit, Exa, MCP, FastAPI                 |
+| Project | Summary | Tech Focus |
+| --- | --- | --- |
+| [Brand Reputation Monitor](https://github.com/tirth1263/brand-reputation-monitor) | An evidence-first brand intelligence app that monitors news, analyzes reputation signals, and preserves follow-up context with memory. | Bright Data, Agno, Nebius, Memori |
+| [Customer Support Voice Agent](https://github.com/tirth1263/customer-support-voice-agent) | A voice-enabled support assistant that uses docs or FAQ sources, memory, and grounded TTS responses for customer queries. | Streamlit, OpenAI, Memori, Firecrawl |
+| [Persistent Memory Agent](https://github.com/tirth1263/persistent-memory-agent-agno) | An AI agent that remembers users across turns, sessions, and restarts with durable long-term memory and persisted chat history. | Agno, Nebius, SQLite, Agent Memory |
+| [Smart Product Launch Agent](https://github.com/tirth1263/smart-product-launch-agent) | A multi-agent competitive-intelligence system that researches how competitors launched products and turns it into decision-ready insights. | Agno, Bright Data, Memori, MongoDB |
+| [Study Coach Agent](https://github.com/tirth1263/study-coach-agent) | An AI-powered study coach that helps learners plan what to study, verify understanding, and track long-term learning progress. | Streamlit, LangGraph, Memori, SQLAlchemy |
+| [Social Media Agent](https://github.com/tirth1263/social-media-agent) | An AI-powered social media automation app that learns your writing style, stores it with memory, generates new posts, and publishes through Composio. | Streamlit, Nebius, Memori, Composio |
+| [YouTube Trend Agent](https://github.com/tirth1263/youtube-trend-agent) | An AI-powered YouTube trend coach that turns your channel history into practical, trend-aware video ideas. | Streamlit, yt-dlp, Memori, Exa |
+| [Docker E2B MCP Agent](https://github.com/tirth1263/docker-e2b-mcp-agent) | A secure GitHub-to-Notion automation agent built with E2B sandboxes, MCP servers, and the OpenAI Agents SDK. | E2B, MCP, OpenAI Agents SDK, Nebius |
+| [NVIDIA-Nemotron-Document-OCR](https://github.com/tirth1263/NVIDIA-Nemotron-Document-OCR) | An OCR and document intelligence project focused on extracting structured information from documents using NVIDIA Nemotron-based workflows. | OCR, Document AI, NVIDIA, LLMs |
+| [Agentic-RAG with Agno and GPT-5](https://github.com/tirth1263/Agentic-RAG-with-Agno-and-GPT-5) | A next-generation agentic retrieval system that combines structured reasoning, grounded search, and GPT-5-based response generation. | Agno, GPT-5, RAG, AI Agents |
+| [Agentic typed RAG with LlamaIndex](https://github.com/tirth1263/Agentic-typed-RAG-with-Llama-index) | A typed agentic RAG system built with LlamaIndex for reliable retrieval, structured outputs, and grounded question answering. | LlamaIndex, Typed RAG, Retrieval, AI Agents |
+| [ScaleKit Exa MCP Security](https://github.com/tirth1263/ScaleKit-Exa-MCP-Security) | A secure Exa Search MCP server with OAuth 2.1, scoped retrieval tools, and Streamable HTTP. | ScaleKit, Exa, MCP, FastAPI |
 
 ---
 
 ### Software Engineering, IoT & Intelligent Systems
 
-| Project                                                                                                                                                             | Summary                                                                                                     | Tech Focus                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [Autonomous CI/CD Failure Patcher](https://github.com/tirth1263/autonomous-ci-cd-failure-patcher)                                                                   | A self-healing CI/CD system that analyzes failed workflows, proposes fixes, and opens pull requests.        | GitHub Actions, Firebase, React, TypeScript         |
-| [Enterprise MCP Database Server](https://github.com/tirth1263/enterprise-mcp-database-server)                                                                       | A secure MCP server and web app for database metadata, schema inspection, and privacy-aware SQL generation. | MCP, Firebase, React, TypeScript                    |
-| [AI-Assisted Robotic Design Interface for Creative Fabrication](https://github.com/tirth1263/ai-assisted-robotic-design-interface-for-creative-fabrication)         | A research interface that translates design intent into robotic fabrication workflow parameters.            | React, TypeScript, Robotic Fabrication              |
-| [Digital Fabrication Curriculum and Workshop Documentation Toolkit](https://github.com/tirth1263/digital-fabrication-curriculum-and-workshop-documentation-toolkit) | A workshop toolkit with modules, safety checklists, templates, and assessment rubrics.                      | Documentation, Fabrication, Workshop Design         |
-| [tirth-rank-portfolio](https://github.com/tirth1263/tirth-rank-portfolio)                                                                                           | A personal portfolio website that presents projects, experience, and skills in a polished web format.       | Web Development, Portfolio, Frontend                |
-| [Job Applications Tracker](https://github.com/tirth1263/job-applications-tracker)                                                                                   | A platform to organize job applications, monitor progress, and manage statuses efficiently.                 | Web Development, Productivity, Application Tracking |
-| [B2B Competitor Intelligence Engine](https://github.com/tirth1263/b2b-competitor-intelligence-engine)                                                               | An intelligence-focused platform for competitor tracking and business decision support.                     | B2B Intelligence, Analytics, Web Development        |
+| Project | Summary | Tech Focus |
+| --- | --- | --- |
+| [Autonomous CI/CD Failure Patcher](https://github.com/tirth1263/autonomous-ci-cd-failure-patcher) | A self-healing CI/CD system that analyzes failed workflows, proposes fixes, and opens pull requests. | GitHub Actions, Firebase, React, TypeScript |
+| [Enterprise MCP Database Server](https://github.com/tirth1263/enterprise-mcp-database-server) | A secure MCP server and web app for database metadata, schema inspection, and privacy-aware SQL generation. | MCP, Firebase, React, TypeScript |
+| [AI-Assisted Robotic Design Interface for Creative Fabrication](https://github.com/tirth1263/ai-assisted-robotic-design-interface-for-creative-fabrication) | A research interface that translates design intent into robotic fabrication workflow parameters. | React, TypeScript, Robotic Fabrication |
+| [Digital Fabrication Curriculum and Workshop Documentation Toolkit](https://github.com/tirth1263/digital-fabrication-curriculum-and-workshop-documentation-toolkit) | A workshop toolkit with modules, safety checklists, templates, and assessment rubrics. | Documentation, Fabrication, Workshop Design |
+| [tirth-rank-portfolio](https://github.com/tirth1263/tirth-rank-portfolio) | A personal portfolio website that presents projects, experience, and skills in a polished web format. | Web Development, Portfolio, Frontend |
+| [Job Applications Tracker](https://github.com/tirth1263/job-applications-tracker) | A platform to organize job applications, monitor progress, and manage statuses efficiently. | Web Development, Productivity, Application Tracking |
+| [B2B Competitor Intelligence Engine](https://github.com/tirth1263/b2b-competitor-intelligence-engine) | An intelligence-focused platform for competitor tracking and business decision support. | B2B Intelligence, Analytics, Web Development |
 
 ---
 
 <div align="center">
 
-<img src="https://gh-stats-xcards.fly.dev/stats/tirth1263?card=github&theme=tokyonight&show_avatar=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tirth1263&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://gh-stats-xcards.fly.dev/stats/tirth1263?card=top-languages&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirth1263&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://gh-stats-xcards.fly.dev/stats/tirth1263?card=streak&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=tirth1263&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://gh-stats-xcards.fly.dev/stats/tirth1263?card=contribution-graph&theme=tokyonight" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth1263&theme=tokyo-night&hide_border=true&area=true&custom_title=Tirth%20Rank%27s%20Contribution%20Graph" alt="GitHub Activity Graph" />
 
 </div>
